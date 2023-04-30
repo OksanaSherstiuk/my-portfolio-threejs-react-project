@@ -46,16 +46,34 @@ const services = [
     icon: web,
   },
   {
-    title: 'React Native Developer',
-    icon: mobile,
+    title: 'React.JS Developer',
+    icon: reactjs,
   },
+
   {
-    title: 'Backend Developer',
-    icon: backend,
+    title: 'CSS Styles Player',
+    icon: css,
+  },
+
+  {
+    title: 'Three.JS Learner',
+    icon: threejs,
   },
   {
     title: 'Content Creator',
     icon: creator,
+  },
+  {
+    title: 'Tailwind CSS Learner',
+    icon: tailwind,
+  },
+  {
+    title: 'Backend Learner',
+    icon: backend,
+  },
+  {
+    title: 'Meta User',
+    icon: meta,
   },
 ]
 
