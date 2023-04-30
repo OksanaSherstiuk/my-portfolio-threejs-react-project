@@ -1,7 +1,7 @@
 # my-portfolio-threejs-react-project
 Project by following a tutorial Java Script Mastery to work with three.js in react
 
-I made this projet following a tutorial and making changes due to my own experience
+I am making this projet following a tutorial and making changes due to my own experience
 
 It still in progress....
 
