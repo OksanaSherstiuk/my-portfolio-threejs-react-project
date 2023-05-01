@@ -30,6 +30,10 @@ import carrent from './carrent.png'
 import jobit from './jobit.png'
 import tripguide from './tripguide.png'
 
+import csspf from './csspf.png'
+import thispf from './thispf.png'
+import vvlist from './vvlist.png'
+
 export {
   logo,
   backend,
@@ -59,4 +63,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  csspf,
+  thispf,
+  vvlist,
 }
