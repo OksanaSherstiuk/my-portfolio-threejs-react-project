@@ -225,7 +225,7 @@ const projects = [
   {
     name: 'This Portfolio',
     description:
-      'This project was created by following a tutorial due to learning purposes, i wanted to work with TailwindCSS and Three.js. I also used React.js to create this portfolio. Tutorial provided on youTube by JavaScript Mastery. ',
+      'This project was created by following a tutorial due to learning purposes, i wanted to work with TailwindCSS and Three.js. I also used React.js to create this portfolio. Tutorial provided on YouTube by JavaScript Mastery. ',
     tags: [
       {
         name: 'reactjs',
