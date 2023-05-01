@@ -35,6 +35,7 @@ import thispf from './thispf.png'
 import vvlist from './vvlist.png'
 import miva from './miva.png'
 import murs from './murs.png'
+import pumba from './pumba.png'
 
 export {
   logo,
@@ -70,4 +71,5 @@ export {
   vvlist,
   miva,
   murs,
+  pumba,
 }

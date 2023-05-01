@@ -18,6 +18,7 @@ import {
   thispf,
   miva,
   murs,
+  pumba,
 } from '../assets'
 
 export const navLinks = [
@@ -175,11 +176,19 @@ const testimonials = [
   },
   {
     testimonial:
-      'Meow meow meoow. Meow meow meoow meoooow meow meow me meoooow meow meow me.',
+      'Meow meow meoow. Meow meow meoow meoooow meow meow me meoooow meow meow me. Mrr.',
     name: 'Murzik',
     designation: 'Very Important Cat',
     company: 'Cats Buisness Ministry',
     image: murs,
+  },
+  {
+    testimonial:
+      'Meow meoooooooooow mrrrrr meow. Meow meow meooooooow meow meow me meoooow.',
+    name: 'Pumba',
+    designation: 'Ambassador',
+    company: 'Cats Ambassadors Club',
+    image: pumba,
   },
 ]
 
