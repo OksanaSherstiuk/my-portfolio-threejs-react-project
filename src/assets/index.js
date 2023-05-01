@@ -33,6 +33,8 @@ import tripguide from './tripguide.png'
 import csspf from './csspf.png'
 import thispf from './thispf.png'
 import vvlist from './vvlist.png'
+import miva from './miva.png'
+import murs from './murs.png'
 
 export {
   logo,
@@ -66,4 +68,6 @@ export {
   csspf,
   thispf,
   vvlist,
+  miva,
+  murs,
 }
